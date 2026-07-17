@@ -3,7 +3,7 @@
 Reference data for future Python & SQL exercises.
 
 ## The planets
-
+##### Data as of July 2026
 | Planet  | Distance (AU) | Gravity (Earth = 1) | Moons | One cool fact |
 |---------|--------------|--------------------|-------|---------------|
 | Mercury | 0.39         | 0.38               | 0     | A year (88 days) is shorter than its day-night cycle (176 days) |
@@ -24,5 +24,5 @@ Reference data for future Python & SQL exercises.
 
 ## To do
 
-- [ ] Use this table as the data for my Python planet dictionary (Block 3)
+- [X] Use this table as the data for my Python planet dictionary (Block 3)
 - [ ] Turn it into a SQLite database (Block 10)
